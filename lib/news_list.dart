@@ -1,0 +1,53 @@
+List<Map<String, String>> newsList = [
+  {
+    "cover":"http://doubibiji.com/open-assets/img/telangpu.jpg",
+    "title":"特朗普再怼拜登,拒签承诺书",
+    "subtitle":"据美媒报道，特朗普言辞升级，社交媒体上再怼拜登。当地时间8月9日，特朗普声明，他本人拒绝签署要求候选人参加首场初选辩论的对共和党忠诚承诺书。",
+  },
+  {
+    "cover":"http://doubibiji.com/open-assets/img/baideng.jpg",
+    "title":"拜登多次起诉特朗普",
+    "subtitle":"美国当地时间8月1日，特朗普接受第三次刑事起诉，而起诉原因是特朗普涉嫌推翻2020年的大选结果。",
+  },
+  {
+    "cover":"http://doubibiji.com/open-assets/img/telangpu.jpg",
+    "title":"特朗普炮轰拜登疯了",
+    "subtitle":"积极备战2024年总统大选的特朗普，正在遭到拜登政府的不断政治追杀，特朗普官司缠身已严重影响了2024年总统大选的竞选活动，被彻底激怒的特朗普对拜登发起连续猛烈的炮轰。",
+  },
+  {
+    "cover":"http://doubibiji.com/open-assets/img/baideng.jpg",
+    "title":"拜登频状告特朗普,最终却事与愿违",
+    "subtitle":"8月1日，由于特朗普被指控颠覆了2020年的选举，特朗普被提起了第三项刑事诉讼。这是一个非常严重的罪名，并且将国会暴乱的责任推到了特朗普身上。",
+  },
+  {
+    "cover":"http://doubibiji.com/open-assets/img/telangpu.jpg",
+    "title":"特朗普或拜登?美国2024年总统选举再掀风波",
+    "subtitle":"近日，美国总统乔·拜登宣布他将寻求连任，参加2024年的总统选举。然而，我个人更倾向于唐纳德·特朗普再次当选美国总统。",
+  },
+  {
+    "cover":"http://doubibiji.com/open-assets/img/baideng.jpg",
+    "title":"外媒:奥巴马当面承诺全力支持拜登连任",
+    "subtitle":"美国前总统奥巴马在今年6月在一次白宫私人午餐会上警告现任总统拜登，假使特朗普如愿赢得明年的共和党总统候选人提名，那么他将在2024年的总统选举中成为拜登的巨大挑战。",
+  },
+  {
+    "cover":"http://doubibiji.com/open-assets/img/telangpu.jpg",
+    "title":"特朗普:我的胜算接近100%",
+    "subtitle":"美国前总统唐纳德·特朗普宣称，如果能够获得共和党候选人提名，他就可以在2024年美国总统选举中击败长期以来的政治对手——现任总统乔·拜登。",
+  },
+  {
+    "cover":"http://doubibiji.com/open-assets/img/baideng.jpg",
+    "title":"拜登要把特朗普关进“黑监狱”",
+    "subtitle":"动用司法武器清除异己,这在美国历史中并不新鲜,但像如今的特朗普和拜登这样杀红了眼,却并不常见。 ",
+  },
+  {
+    "cover":"http://doubibiji.com/open-assets/img/telangpu.jpg",
+    "title":"特朗普入狱,拜登认输,美国或迎来5大劫难!",
+    "subtitle":"拜登上台之后，一直吹嘘自己能够将美国带入一个全新的高度，可现下美国不但没有进一步的发展，反而还在拖别国后腿，这五大劫难美国在所难逃。",
+  },
+  {
+    "cover":"http://doubibiji.com/open-assets/img/baideng.jpg",
+    "title":"拜登特朗普存在两大共同问题,未来的美国总统,仍可能是位新人",
+    "subtitle":"下一任美国总统，究竟会是谁呢？目前，拜登和特朗普这对“老冤家”，已经陷入了缠斗，似乎二人将再次上演“终极对决”。",
+  },
+
+];
