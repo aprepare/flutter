@@ -1,17 +1,49 @@
-# helloflutter
+# 🎓 Flutter 学习项目
 
-A new Flutter project.
+这是主人的 Flutter 学习项目，由浣熊 🦝 辅导。
 
-## Getting Started
+## 📅 学习进度
 
-This project is a starting point for a Flutter application.
+- [x] Day 1：Dart 语法 + Flutter 环境
+- [ ] Day 2：Widget + 布局 + 列表
+- [ ] Day 3：路由 + 状态管理
+- [ ] Day 4：网络请求 + JSON
+- [ ] Day 5-7：工单 App 项目
 
-A few resources to get you started if this is your first Flutter project:
+## 📁 项目结构
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+lib/
+├── main.dart           # 入口文件 + 主页
+└── models/
+    └── ticket.dart     # 工单模型（Day 1 重点）
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# 浣熊测试 - Mon Feb  9 07:33:28 PM CST 2026
+## 🚀 运行项目
+
+```bash
+flutter run -d chrome
+```
+
+## 📚 Day 1 知识点
+
+### 1. 变量声明
+- `var` - 可变
+- `final` - 运行时确定，不能重新赋值
+- `const` - 编译时常量，完全不可变
+- `late` - 延迟初始化
+
+### 2. 空安全
+- `String?` - 可能是 null
+- `?.` - 安全访问
+- `??` - 空值合并
+- `!` - 强制解包
+
+### 3. 类和枚举
+- `class` 定义类
+- `enum` 定义枚举
+- `getter` 计算属性
+
+---
+
+*由浣熊 🦝 生成于 2026-02-09*
